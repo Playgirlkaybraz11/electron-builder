@@ -59,7 +59,7 @@
     "builder-util-runtime": "workspace:*",
     "chromium-pickle-js": "^0.2.0",
     "debug": "^4.3.4",
-    "ejs": "^3.1.8",
+    "ejs": "^3.1.10",
     "electron-publish": "workspace:*",
     "form-data": "^4.0.0",
     "fs-extra": "^10.1.0",
